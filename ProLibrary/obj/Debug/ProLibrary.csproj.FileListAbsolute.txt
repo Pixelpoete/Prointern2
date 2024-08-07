@@ -1,0 +1,6 @@
+D:\DEV_PROJECTS\DOTNET\DylanAmbele\Prointern2\ProLibrary\bin\Debug\ProLibrary.dll
+D:\DEV_PROJECTS\DOTNET\DylanAmbele\Prointern2\ProLibrary\bin\Debug\ProLibrary.pdb
+D:\DEV_PROJECTS\DOTNET\DylanAmbele\Prointern2\ProLibrary\obj\Debug\ProLibrary.csproj.AssemblyReference.cache
+D:\DEV_PROJECTS\DOTNET\DylanAmbele\Prointern2\ProLibrary\obj\Debug\ProLibrary.csproj.CoreCompileInputs.cache
+D:\DEV_PROJECTS\DOTNET\DylanAmbele\Prointern2\ProLibrary\obj\Debug\ProLibrary.dll
+D:\DEV_PROJECTS\DOTNET\DylanAmbele\Prointern2\ProLibrary\obj\Debug\ProLibrary.pdb
