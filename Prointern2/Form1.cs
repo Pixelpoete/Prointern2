@@ -16,5 +16,28 @@ namespace Prointern2
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            tbp.UseSystemPasswordChar = true;
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            switch (checkBox1.CheckState)
+            {
+                 case CheckState.Checked: tbp.UseSystemPasswordChar = false;
+                    break;
+                case CheckState.Unchecked: tbp.UseSystemPasswordChar = true;
+                    break;
+
+ 
+            }
+        }
+
+        private void tbp_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
